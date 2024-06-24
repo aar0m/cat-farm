@@ -1,8 +1,0 @@
-<map id="SingleLinkedList::add" name="SingleLinkedList::add">
-<area shape="rect" id="node1" title="Adds a new Node, &#39;newNode&#39;, to SingleLinkedList." alt="" coords="5,56,153,83"/>
-<area shape="rect" id="node2" href="$classSingleLinkedList.html#a28ef6274454e216111ee060540b7944f" title="Indicates if a specific object is present in the SingleLinkedList." alt="" coords="214,5,361,32"/>
-<area shape="rect" id="node3" href="$classNode.html#a9f69825adc179781257e406b3255a93e" title="Ensures Node and all its members are healthy (presumably)" alt="" coords="434,56,541,83"/>
-<area shape="rect" id="node4" href="$classSingleLinkedList.html#a4e475a8028331e1eee38a655f88706a6" title="Iterates and validates every object in a SingleLinkedList based on specified ruleset." alt="" coords="201,107,373,133"/>
-<area shape="rect" id="node5" href="$classContainer.html#a4ba5dfecf5b1505bd08df17f0c2436c5" title="Generates a Container to place objects into." alt="" coords="602,132,736,159"/>
-<area shape="rect" id="node6" href="$classContainer.html#a654be97698b35ecb309b27f8a075b216" title="Validates that Node and Container follow a specified ruleset." alt="" coords="421,157,554,184"/>
-</map>

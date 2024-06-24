@@ -1,5 +1,0 @@
-<map id="Name::reset" name="Name::reset">
-<area shape="rect" id="node1" title="Erase and then re&#45;load the names database or set the serial number to 0." alt="" coords="426,5,520,32"/>
-<area shape="rect" id="node2" href="$className.html#ad7a220d0aae6115ce4b63a7cb04b814b" title="Get the next name." alt="" coords="233,5,378,32"/>
-<area shape="rect" id="node3" href="$classAnimal.html#a6c67202c385f8e213a21454565f01e62" title="Generates a random Animal with random specifications (in this case, a Cat)" alt="" coords="5,5,185,32"/>
-</map>

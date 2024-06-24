@@ -1,4 +1,0 @@
-<map id="Cat::setName" name="Cat::setName">
-<area shape="rect" id="node1" title="Set the Cat name." alt="" coords="124,5,226,32"/>
-<area shape="rect" id="node2" href="$structCat.html#ae8cbfb9566aca77591c94edfb39413dc" title="Generates a Cat with an unknown &#39;color&#39;, Gender, random &#39;weight&#39;, and specified &#39;newName&#39;." alt="" coords="5,5,76,32"/>
-</map>

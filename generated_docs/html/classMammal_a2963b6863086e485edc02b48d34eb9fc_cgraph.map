@@ -1,4 +1,0 @@
-<map id="Mammal::Mammal" name="Mammal::Mammal">
-<area shape="rect" id="node1" title="Generates a Mammal with a specified Gender and random &#39;weight&#39;." alt="" coords="5,5,136,32"/>
-<area shape="rect" id="node2" href="$classAnimal.html#a96634826703e846e99b8592be6fef36a" title="Generates a random &#39;weight&#39; in pounds for an Animal." alt="" coords="184,5,352,32"/>
-</map>

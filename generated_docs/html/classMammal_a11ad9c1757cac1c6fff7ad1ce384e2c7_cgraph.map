@@ -1,8 +1,0 @@
-<map id="Mammal::validate" name="Mammal::validate">
-<area shape="rect" id="node1" title="Validates Animal based on specified ruleset." alt="" coords="5,56,131,83"/>
-<area shape="rect" id="node2" href="$classMammal.html#a58a3aed0f5c4a932ee49c7738d81b686" title="Returns classification of Mammal." alt="" coords="179,5,356,32"/>
-<area shape="rect" id="node3" href="$classAnimal.html#a7a892113e7a4a8834cf84b7b2621e2d8" title="Validates Animal based on specified ruleset." alt="" coords="210,56,325,83"/>
-<area shape="rect" id="node6" href="$Gender_8cpp.html#a538e79224dfde704ae9d2a14d8ca761b" title="Validates a Gender class given via input." alt="" coords="212,107,323,133"/>
-<area shape="rect" id="node4" href="$classAnimal.html#ae4e9e9cf7a0286c70334400b9310746c" title="Returns &#39;kingdom&#39; of Animal." alt="" coords="404,31,545,57"/>
-<area shape="rect" id="node5" href="$classNode.html#a9f69825adc179781257e406b3255a93e" title="Ensures Node and all its members are healthy (presumably)" alt="" coords="421,81,528,108"/>
-</map>

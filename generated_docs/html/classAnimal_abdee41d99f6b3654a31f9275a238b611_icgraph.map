@@ -1,5 +1,0 @@
-<map id="Animal::setWeight" name="Animal::setWeight">
-<area shape="rect" id="node1" title="Sets &#39;weight&#39; of Animal." alt="" coords="343,31,471,57"/>
-<area shape="rect" id="node2" href="$classAnimal.html#aec8039997b0be3da027036d998f8207c" title="Generates an Animal with a specified &#39;weight&#39;." alt="" coords="184,5,295,32"/>
-<area shape="rect" id="node3" href="$classMammal.html#a355f8c647618d6baf6bda466f04401e2" title="Generates a Mammal with a specified &#39;color&#39;, &#39;weight&#39;, and Gender." alt="" coords="5,31,136,57"/>
-</map>

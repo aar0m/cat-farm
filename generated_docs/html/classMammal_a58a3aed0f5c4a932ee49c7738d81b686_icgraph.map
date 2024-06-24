@@ -1,8 +1,0 @@
-<map id="Mammal::getClassification" name="Mammal::getClassification">
-<area shape="rect" id="node1" title="Returns classification of Mammal." alt="" coords="441,31,618,57"/>
-<area shape="rect" id="node2" href="$classMammal.html#ab20372fdea68db8cdf54929f1f6f4e31" title="Prints information about Mammal (Node, Animal, &#39;classification&#39;, &#39;color&#39;)" alt="" coords="273,5,387,32"/>
-<area shape="rect" id="node4" href="$classMammal.html#a11ad9c1757cac1c6fff7ad1ce384e2c7" title="Validates Animal based on specified ruleset." alt="" coords="267,56,393,83"/>
-<area shape="rect" id="node3" href="$classCat.html#a85f15f727bab7daf77a5c6284e9e50cb" title="Prints information about Cat (Node, Animal, Mammal, Name)" alt="" coords="130,5,213,32"/>
-<area shape="rect" id="node5" href="$classCat.html#a0680012e4e432f9a1b128a82948a4798" title="Validates Cat based on specified ruleset." alt="" coords="124,56,219,83"/>
-<area shape="rect" id="node6" href="$classCat.html#a84a4c2dd95aeafdee0c49ccde0ad5cb6" title="Generates a Cat with an unknown &#39;color&#39;, Gender, random &#39;weight&#39;, and specified &#39;newName&#39;." alt="" coords="5,56,76,83"/>
-</map>

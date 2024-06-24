@@ -1,5 +1,0 @@
-<map id="Mammal::getClassification" name="Mammal::getClassification">
-<area shape="rect" id="node1" title="Returns classification of Mammal." alt="" coords="340,5,517,32"/>
-<area shape="rect" id="node2" href="$classMammal.html#ab20372fdea68db8cdf54929f1f6f4e31" title="Prints information about Mammal (Node, Animal, classification, color)" alt="" coords="5,5,119,32"/>
-<area shape="rect" id="node3" href="$classMammal.html#a11ad9c1757cac1c6fff7ad1ce384e2c7" title="Validates Mammal, ensuring classification and color are not empty/unknown." alt="" coords="167,31,292,57"/>
-</map>

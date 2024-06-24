@@ -1,6 +1,0 @@
-<map id="Cat" name="Cat">
-<area shape="rect" id="node1" title="A database record for a cat." alt="" coords="5,889,701,1211"/>
-<area shape="rect" id="node2" href="$classMammal.html" title="Mammals? More like &quot;ma pals!&quot;." alt="" coords="130,504,577,841"/>
-<area shape="rect" id="node3" href="$classAnimal.html" title="Are there any malls for animals?" alt="" coords="206,263,501,456"/>
-<area shape="rect" id="node4" href="$classNode.html" title="Do no new nodes know known nodes!?" alt="" coords="218,5,489,215"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="Mammal::dump" name="Mammal::dump">
-<area shape="rect" id="node1" title="Prints information about Mammal (Node, Animal, &#39;classification&#39;, &#39;color&#39;)" alt="" coords="136,5,249,32"/>
-<area shape="rect" id="node2" href="$classCat.html#a85f15f727bab7daf77a5c6284e9e50cb" title="Prints information about Cat (Node, Animal, Mammal, Name)" alt="" coords="5,5,88,32"/>
-</map>

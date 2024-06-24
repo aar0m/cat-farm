@@ -1,8 +1,0 @@
-<map id="SingleLinkedList::isSorted" name="SingleLinkedList::isSorted">
-<area shape="rect" id="node1" title="Checks if SingleLinkedList is sorted from least to greatest." alt="" coords="5,31,180,57"/>
-<area shape="rect" id="node2" href="$classNode.html#af1273b8825cf35f7e08f959c09a6ffe8" title="Compares Node based by numerically comparing addresses." alt="" coords="250,5,378,32"/>
-<area shape="rect" id="node3" href="$classSingleLinkedList.html#a4e475a8028331e1eee38a655f88706a6" title="Iterates and validates every object in a SingleLinkedList based on specified ruleset." alt="" coords="228,56,400,83"/>
-<area shape="rect" id="node4" href="$classContainer.html#a4ba5dfecf5b1505bd08df17f0c2436c5" title="Generates a Container to place objects into." alt="" coords="628,56,762,83"/>
-<area shape="rect" id="node5" href="$classNode.html#a9f69825adc179781257e406b3255a93e" title="Ensures Node and all its members are healthy (presumably)" alt="" coords="461,56,567,83"/>
-<area shape="rect" id="node6" href="$classContainer.html#a654be97698b35ecb309b27f8a075b216" title="Validates that Node and Container follow a specified ruleset." alt="" coords="448,107,580,133"/>
-</map>

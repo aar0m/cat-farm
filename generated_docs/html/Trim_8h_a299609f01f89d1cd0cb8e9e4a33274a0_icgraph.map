@@ -1,7 +1,0 @@
-<map id="trim" name="trim">
-<area shape="rect" id="node1" title="This function does the following:" alt="" coords="350,31,394,57"/>
-<area shape="rect" id="node2" href="$className.html#a27aa1b326d6f3bc1e040f645f87a6c4a" title="Erase and then re&#45;load the names database or set the serial number to 0." alt="" coords="204,5,298,32"/>
-<area shape="rect" id="node4" href="$structCat.html#af4a79f34cbaf6a5059a1d0863f8072bb" title="Set the Cat name." alt="" coords="199,56,302,83"/>
-<area shape="rect" id="node3" href="$className.html#ad7a220d0aae6115ce4b63a7cb04b814b" title="Get the next name." alt="" coords="5,5,151,32"/>
-<area shape="rect" id="node5" href="$structCat.html#ae8cbfb9566aca77591c94edfb39413dc" title="Generates a Cat with an unknown &#39;color&#39;, Gender, random &#39;weight&#39;, and specified &#39;newName&#39;." alt="" coords="43,56,113,83"/>
-</map>

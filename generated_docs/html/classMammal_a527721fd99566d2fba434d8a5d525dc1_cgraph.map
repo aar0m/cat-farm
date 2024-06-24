@@ -1,5 +1,0 @@
-<map id="Mammal::Mammal" name="Mammal::Mammal">
-<area shape="rect" id="node1" title="Generates Mammal with ONLY specified Gender." alt="" coords="5,31,136,57"/>
-<area shape="rect" id="node2" href="$classMammal.html#a42669c20d1329bf92fc078bd3220bd17" title="Sets color of Mammal." alt="" coords="191,5,320,32"/>
-<area shape="rect" id="node3" href="$classMammal.html#a74e180dc1e795f516c21ab3950d112a0" title="Sets Gender of Animal if &quot;unknown&quot;." alt="" coords="184,56,326,83"/>
-</map>

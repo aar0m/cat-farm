@@ -1,7 +1,0 @@
-<map id="SingleLinkedList::isIn" name="SingleLinkedList::isIn">
-<area shape="rect" id="node1" title="Indicates if a specific object is present in the SingleLinkedList." alt="" coords="665,56,812,83"/>
-<area shape="rect" id="node2" href="$classSingleLinkedList.html#ae4bac7ac6ecc8a0f1d689d2fed3b2c2e" title="Adds a new Node, &#39;newNode&#39;, to SingleLinkedList." alt="" coords="213,5,361,32"/>
-<area shape="rect" id="node4" href="$classSingleLinkedList.html#ae5d531b9dd176a59642c64e02bca26c0" title="Returns &quot;parent&quot; Node (previous) of thisNode." alt="" coords="420,56,617,83"/>
-<area shape="rect" id="node5" href="$classSingleLinkedList.html#af4561d78939a5b2f1c9cf4c86866cec4" title="Removes a Node, &#39;thisNode&#39;, from SingleLinkedList." alt="" coords="201,56,372,83"/>
-<area shape="rect" id="node3" href="$classSingleLinkedList.html#af7e0bb2dfe82ddcb6e8ff9291807e66b" title="Sorts SingleLinkedList via selection sort." alt="" coords="5,31,153,57"/>
-</map>

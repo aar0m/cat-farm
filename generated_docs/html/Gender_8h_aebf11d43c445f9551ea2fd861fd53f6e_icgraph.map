@@ -1,4 +1,0 @@
-<map id="newRandomGender" name="newRandomGender">
-<area shape="rect" id="node1" title="Generates a random Gender from the enumeration." alt="" coords="233,5,373,32"/>
-<area shape="rect" id="node2" href="$classAnimal.html#a6c67202c385f8e213a21454565f01e62" title="Generates a random Animal with random specifications (in this case, a Cat)" alt="" coords="5,5,185,32"/>
-</map>

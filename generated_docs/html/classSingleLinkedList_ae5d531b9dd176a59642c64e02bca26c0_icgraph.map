@@ -1,5 +1,0 @@
-<map id="SingleLinkedList::getParentOf" name="SingleLinkedList::getParentOf">
-<area shape="rect" id="node1" title="Returns &quot;parent&quot; Node (previous) of thisNode." alt="" coords="420,5,617,32"/>
-<area shape="rect" id="node2" href="$classSingleLinkedList.html#af4561d78939a5b2f1c9cf4c86866cec4" title="Removes a Node, &#39;thisNode&#39;, from SingleLinkedList." alt="" coords="201,5,372,32"/>
-<area shape="rect" id="node3" href="$classSingleLinkedList.html#af7e0bb2dfe82ddcb6e8ff9291807e66b" title="Sorts SingleLinkedList via selection sort." alt="" coords="5,5,153,32"/>
-</map>

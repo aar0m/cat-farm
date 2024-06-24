@@ -1,7 +1,0 @@
-<map id="shift_left" name="shift_left">
-<area shape="rect" id="node1" title="Shift characters in a string to the left." alt="" coords="660,5,731,32"/>
-<area shape="rect" id="node2" href="$Trim_8cpp.html#a4279db14ccdb56c5983718defd20af7b" title="This function does the following:" alt="" coords="568,5,612,32"/>
-<area shape="rect" id="node3" href="$className.html#a27aa1b326d6f3bc1e040f645f87a6c4a" title="Erase and then re&#45;load the names database or set the serial number to 0." alt="" coords="426,5,520,32"/>
-<area shape="rect" id="node4" href="$className.html#ad7a220d0aae6115ce4b63a7cb04b814b" title="Get the next name." alt="" coords="233,5,378,32"/>
-<area shape="rect" id="node5" href="$classAnimal.html#a6c67202c385f8e213a21454565f01e62" title="Generates a random Animal with random specifications (in this case, a Cat)" alt="" coords="5,5,185,32"/>
-</map>

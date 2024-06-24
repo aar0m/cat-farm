@@ -1,5 +1,0 @@
-<map id="Cat::Cat" name="Cat::Cat">
-<area shape="rect" id="node1" title="Generates a Mammal with a specified &#39;weight&#39; and Gender." alt="" coords="5,5,76,32"/>
-<area shape="rect" id="node2" href="$classMammal.html#abf70435fbb0b7a21bb228b6a89c3d271" title="Generates a Mammal with a specified &#39;weight&#39; and Gender." alt="" coords="124,5,255,32"/>
-<area shape="rect" id="node3" href="$classAnimal.html#acde9807bf2eadb3fb6a8650ba7ccfa43" title="Validates &#39;weight&#39; based on specified ruleset." alt="" coords="303,5,459,32"/>
-</map>

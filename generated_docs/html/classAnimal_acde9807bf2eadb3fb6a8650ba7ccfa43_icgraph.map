@@ -1,7 +1,0 @@
-<map id="Animal::validateWeight" name="Animal::validateWeight">
-<area shape="rect" id="node1" title="Validates &#39;weight&#39; based on specified ruleset." alt="" coords="688,31,845,57"/>
-<area shape="rect" id="node2" href="$classAnimal.html#aec8039997b0be3da027036d998f8207c" title="Generates an Animal with a specified &#39;weight&#39;." alt="" coords="530,5,640,32"/>
-<area shape="rect" id="node3" href="$classMammal.html#a70dd126be96f5b57dbe3ae394fd17809" title="Generates a Mammal with a specified &#39;color&#39;, &#39;weight&#39;, and Gender." alt="" coords="351,31,482,57"/>
-<area shape="rect" id="node4" href="$classCat.html#a70728c65135e1a98f70eada1da99b282" title="Generates a Cat with a specified Name, &#39;color&#39;, &#39;weight&#39;, and Gender." alt="" coords="233,31,303,57"/>
-<area shape="rect" id="node5" href="$classAnimal.html#a6c67202c385f8e213a21454565f01e62" title="Generates a random Animal with random specifications (in this case, a Cat)" alt="" coords="5,31,185,57"/>
-</map>
