@@ -13,7 +13,7 @@ admire and aspire to emulate as a software engineer, and Rachel Watanabe, the
 most reliable graduate student known to man (probably) and someone who has 
 graciously put up with my coding problems (thank you Rachel!)._
 
-## Lessons Exercised by building Animal Farm
+## Lessons Exercised by Building Animal Farm
 ![CLion](images/coding.png)
 * Understanding the difference between C and C++
 * Declaring and implementing _classes_
