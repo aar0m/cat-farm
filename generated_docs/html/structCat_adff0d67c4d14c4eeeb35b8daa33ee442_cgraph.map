@@ -1,0 +1,8 @@
+<map id="Cat::Cat" name="Cat::Cat">
+<area shape="rect" id="node1" title="Generates a Cat with a unknown &#39;color&#39;, Gender and a random &#39;weight&#39;." alt="" coords="5,81,76,108"/>
+<area shape="rect" id="node2" href="$classMammal.html#a355f8c647618d6baf6bda466f04401e2" title="Generates a Mammal with a specified &#39;color&#39;, &#39;weight&#39;, and Gender." alt="" coords="142,56,273,83"/>
+<area shape="rect" id="node6" href="$classAnimal.html#a96634826703e846e99b8592be6fef36a" title="Generates a random &#39;weight&#39; in pounds for an Animal." alt="" coords="124,107,291,133"/>
+<area shape="rect" id="node3" href="$classAnimal.html#aec8039997b0be3da027036d998f8207c" title="Generates an Animal with a specified &#39;weight&#39;." alt="" coords="349,5,459,32"/>
+<area shape="rect" id="node4" href="$classAnimal.html#acde9807bf2eadb3fb6a8650ba7ccfa43" title="Validates &#39;weight&#39; based on specified ruleset." alt="" coords="516,31,673,57"/>
+<area shape="rect" id="node5" href="$classMammal.html#a42669c20d1329bf92fc078bd3220bd17" title="Sets color of Mammal." alt="" coords="339,107,468,133"/>
+</map>

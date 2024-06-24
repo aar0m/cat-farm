@@ -1,0 +1,4 @@
+<map id="Mammal::Mammal" name="Mammal::Mammal">
+<area shape="rect" id="node1" title="Generates a Mammal with a specified &#39;color&#39; and Gender and random &#39;weight&#39;." alt="" coords="124,5,255,32"/>
+<area shape="rect" id="node2" href="$classCat.html#acfe0fff01ec12c81b3cdbe4889d5007a" title="Generates a Cat with a specified Name, Gender, and &#39;color&#39;." alt="" coords="5,5,76,32"/>
+</map>

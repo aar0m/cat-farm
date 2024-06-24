@@ -1,0 +1,11 @@
+<map id="Mammal::dump" name="Mammal::dump">
+<area shape="rect" id="node1" title="Prints information about Mammal (Node, Animal, &#39;classification&#39;, &#39;color&#39;)" alt="" coords="5,132,119,159"/>
+<area shape="rect" id="node2" href="$classAnimal.html#a476580d51e6bf6dca87c5a3d395f4347" title="Prints information of Animal (Node properties, &#39;kingdom&#39;, Gender)" alt="" coords="204,56,306,83"/>
+<area shape="rect" id="node7" href="$classMammal.html#a58a3aed0f5c4a932ee49c7738d81b686" title="Returns classification of Mammal." alt="" coords="167,107,343,133"/>
+<area shape="rect" id="node8" href="$classMammal.html#ae7aab3e81200cfb2e8294ca97d90a124" title="Returns color of Mammal." alt="" coords="190,157,320,184"/>
+<area shape="rect" id="node9" href="$classMammal.html#ad8aeb9fdbb53a17bf3bd3385d0d0b2b4" title="Returns Gender of Animal." alt="" coords="184,208,326,235"/>
+<area shape="rect" id="node3" href="$classNode.html#aafe01f5fb0aa5034d12b210065427110" title="Prints information of a Node, including class, address, and next Node." alt="" coords="402,5,496,32"/>
+<area shape="rect" id="node4" href="$classAnimal.html#ae4e9e9cf7a0286c70334400b9310746c" title="Returns &#39;kingdom&#39; of Animal." alt="" coords="555,56,696,83"/>
+<area shape="rect" id="node5" href="$classAnimal.html#a7a892113e7a4a8834cf84b7b2621e2d8" title="Validates Animal based on specified ruleset." alt="" coords="391,107,507,133"/>
+<area shape="rect" id="node6" href="$classNode.html#a9f69825adc179781257e406b3255a93e" title="Ensures Node and all its members are healthy (presumably)" alt="" coords="572,107,679,133"/>
+</map>

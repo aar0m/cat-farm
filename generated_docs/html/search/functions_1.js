@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['cat_0',['Cat',['../classCat.html#a70728c65135e1a98f70eada1da99b282',1,'Cat::Cat(const std::string_view newName, const float newWeight, const std::string_view newColor, const Gender newGender)'],['../classCat.html#a24e1686cc8d09e2331d168c8384ce57e',1,'Cat::Cat(const std::string_view newName, const float newWeight, std::string_view newColor)'],['../classCat.html#a60314b7772165a58e772b51c3820d338',1,'Cat::Cat(const std::string_view newName, const float newWeight, const Gender newGender)'],['../classCat.html#acfe0fff01ec12c81b3cdbe4889d5007a',1,'Cat::Cat(const std::string_view newName, const Gender newGender, const std::string_view newColor)'],['../classCat.html#a67c614b30578c6c4c12a38b54008f448',1,'Cat::Cat(const std::string_view newName, const float newWeight)'],['../classCat.html#ab2228ede359b6e69434dd5f9fea37de7',1,'Cat::Cat(const std::string_view newName, const Gender newGender)'],['../classCat.html#a84a4c2dd95aeafdee0c49ccde0ad5cb6',1,'Cat::Cat(std::string_view newName)']]],
+  ['classifychar_1',['classifyChar',['../Trim_8cpp.html#a398351d9936e6de09064add80fa3cc4e',1,'Trim.cpp']]]
+];

@@ -1,0 +1,7 @@
+<map id="Animal::dump" name="Animal::dump">
+<area shape="rect" id="node1" title="Prints information of Animal (Node properties, &#39;kingdom&#39;, Gender)" alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$classNode.html#aafe01f5fb0aa5034d12b210065427110" title="Prints information of a Node, including class, address, and next Node." alt="" coords="167,5,261,32"/>
+<area shape="rect" id="node3" href="$classAnimal.html#ae4e9e9cf7a0286c70334400b9310746c" title="Returns &#39;kingdom&#39; of Animal." alt="" coords="320,56,460,83"/>
+<area shape="rect" id="node4" href="$classAnimal.html#a7a892113e7a4a8834cf84b7b2621e2d8" title="Validates Animal based on specified ruleset." alt="" coords="156,107,272,133"/>
+<area shape="rect" id="node5" href="$classNode.html#a9f69825adc179781257e406b3255a93e" title="Ensures Node and all its members are healthy (presumably)" alt="" coords="337,107,443,133"/>
+</map>

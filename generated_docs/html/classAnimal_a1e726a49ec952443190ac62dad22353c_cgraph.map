@@ -1,0 +1,5 @@
+<map id="Animal::Animal" name="Animal::Animal">
+<area shape="rect" id="node1" title="Generates an Animal with a random valid &#39;weight&#39;." alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$classAnimal.html#a96634826703e846e99b8592be6fef36a" title="Generates a random &#39;weight&#39; in pounds for an Animal." alt="" coords="164,5,331,32"/>
+<area shape="rect" id="node3" href="$classAnimal.html#acde9807bf2eadb3fb6a8650ba7ccfa43" title="Validates &#39;weight&#39; based on specified ruleset." alt="" coords="169,56,326,83"/>
+</map>

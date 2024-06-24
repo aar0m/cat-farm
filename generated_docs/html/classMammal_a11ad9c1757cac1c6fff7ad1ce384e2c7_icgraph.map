@@ -1,0 +1,5 @@
+<map id="Mammal::validate" name="Mammal::validate">
+<area shape="rect" id="node1" title="Validates Animal based on specified ruleset." alt="" coords="267,5,393,32"/>
+<area shape="rect" id="node2" href="$classCat.html#a0680012e4e432f9a1b128a82948a4798" title="Validates Cat based on specified ruleset." alt="" coords="124,5,219,32"/>
+<area shape="rect" id="node3" href="$classCat.html#a84a4c2dd95aeafdee0c49ccde0ad5cb6" title="Generates a Cat with an unknown &#39;color&#39;, Gender, random &#39;weight&#39;, and specified &#39;newName&#39;." alt="" coords="5,5,76,32"/>
+</map>

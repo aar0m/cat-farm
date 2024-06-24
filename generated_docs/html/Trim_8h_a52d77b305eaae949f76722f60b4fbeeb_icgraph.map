@@ -1,0 +1,4 @@
+<map id="trim_edges" name="trim_edges">
+<area shape="rect" id="node1" title="Remove all leading and trailing whitespace from inString" alt="" coords="327,5,415,32"/>
+<area shape="rect" id="node2" href="$className.html#a528a6452c92fdd26082cd1f1ba96f0ee" title="Return true if newName&#39;s interior whitespace is trimmed." alt="" coords="5,5,279,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Cat" name="Cat">
+<area shape="rect" id="node1" title="Cat class." alt="" coords="5,937,614,1307"/>
+<area shape="rect" id="node2" href="$classMammal.html" title="Mammals? More like &quot;ma pals!&quot;." alt="" coords="74,552,545,889"/>
+<area shape="rect" id="node3" href="$classAnimal.html" title="Are there any malls for animals?" alt="" coords="140,263,479,504"/>
+<area shape="rect" id="node4" href="$classNode.html" title="Do no new nodes know known nodes!?" alt="" coords="174,5,445,215"/>
+</map>

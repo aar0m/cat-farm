@@ -1,0 +1,30 @@
+/* ///////////////////////////////////////////////////////////////////////////
+//         University of Hawaii, College of Engineering
+//         Animal Farm - EE 205 - Spr 2023
+//
+/// Custom style sheet for Doxygen documentation
+///
+/// @file    estraStyleSheet.css
+/// @author  Mark Nelson <marknels@hawaii.edu>
+/////////////////////////////////////////////////////////////////////////// */
+
+code {
+    color: green;
+}
+
+pre.fragment {
+    color: green;
+    background-color: #e8e8e8
+}
+
+span.comment {
+    color: green;
+}
+
+span.preprocessor {
+    color: dimgray;
+}
+
+span.keywordflow {
+    color: darkorange;
+}

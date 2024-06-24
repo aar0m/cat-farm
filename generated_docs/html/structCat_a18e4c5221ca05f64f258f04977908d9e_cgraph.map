@@ -1,0 +1,12 @@
+<map id="Cat::Cat" name="Cat::Cat">
+<area shape="rect" id="node1" title="Generates a Cat with a specified Name, Gender, and &#39;color&#39;." alt="" coords="5,81,76,108"/>
+<area shape="rect" id="node2" href="$classMammal.html#aa8b1ccf6d8e9a8b54c5bcb76f42a90a0" title="Generates a Mammal with a specified &#39;color&#39; and Gender and random &#39;weight&#39;." alt="" coords="124,56,255,83"/>
+<area shape="rect" id="node4" href="$structCat.html#af4a79f34cbaf6a5059a1d0863f8072bb" title="Set the Cat name." alt="" coords="138,107,240,133"/>
+<area shape="rect" id="node3" href="$classMammal.html#a42669c20d1329bf92fc078bd3220bd17" title="Sets color of Mammal." alt="" coords="311,56,440,83"/>
+<area shape="rect" id="node5" href="$className.html#adf2e3789f330180d37ad880f17e004cc" title="Check if newName is valid." alt="" coords="303,107,448,133"/>
+<area shape="rect" id="node6" href="$className.html#a528a6452c92fdd26082cd1f1ba96f0ee" title="Return true if newName&#39;s interior whitespace is trimmed." alt="" coords="496,5,770,32"/>
+<area shape="rect" id="node7" href="$className.html#a48ffe2521a489104cee5718de979a57a" title="Return true if newName only contains A &#45; Z, a &#45; z, 0&#45;9, space and &#45;" alt="" coords="530,56,737,83"/>
+<area shape="rect" id="node8" href="$className.html#a0af5e33bf02472905a9e9d0b9f9510cf" title="Return true if newName is not empty." alt="" coords="549,107,718,133"/>
+<area shape="rect" id="node9" href="$className.html#a024eecc170d4ba3e3fb4f05b35078478" title="Return true if newName starts with an alphabetic character (A &#45; Z or a &#45; z)" alt="" coords="530,157,736,184"/>
+<area shape="rect" id="node10" href="$className.html#a8004ce0cca7df10725e0e34cd541f274" title="Return true if newName is left and right trimmed for whitespace." alt="" coords="552,208,715,235"/>
+</map>

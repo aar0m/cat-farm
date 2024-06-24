@@ -1,0 +1,8 @@
+<map id="Node::info" name="Node::info">
+<area shape="rect" id="node1" title="Prints unique line representing this object." alt="" coords="504,31,586,57"/>
+<area shape="rect" id="node2" href="$classAnimal.html#a7a892113e7a4a8834cf84b7b2621e2d8" title="Validates Animal based on specified ruleset." alt="" coords="340,31,456,57"/>
+<area shape="rect" id="node3" href="$classAnimal.html#a476580d51e6bf6dca87c5a3d395f4347" title="Prints information of Animal (Node properties, &#39;kingdom&#39;, Gender)" alt="" coords="178,5,281,32"/>
+<area shape="rect" id="node5" href="$classMammal.html#a11ad9c1757cac1c6fff7ad1ce384e2c7" title="Validates Animal based on specified ruleset." alt="" coords="167,56,292,83"/>
+<area shape="rect" id="node4" href="$classMammal.html#ab20372fdea68db8cdf54929f1f6f4e31" title="Prints information about Mammal (Node, Animal, &#39;classification&#39;, &#39;color&#39;)" alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node6" href="$structCat.html#ae8cbfb9566aca77591c94edfb39413dc" title="Generates a Cat with an unknown &#39;color&#39;, Gender, random &#39;weight&#39;, and specified &#39;newName&#39;." alt="" coords="27,56,97,83"/>
+</map>

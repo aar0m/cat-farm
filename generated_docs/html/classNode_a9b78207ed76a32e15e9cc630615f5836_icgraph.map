@@ -1,0 +1,9 @@
+<map id="Node::compare" name="Node::compare">
+<area shape="rect" id="node1" title="Compares Node based on address value: numerically compares addresses." alt="" coords="477,81,589,108"/>
+<area shape="rect" id="node2" href="$classAnimal.html#a95a1b1fdee210b87d8af2b1d8da3591e" title="Compares Animals based on name, weight, color." alt="" coords="254,5,376,32"/>
+<area shape="rect" id="node4" href="$classSingleLinkedList.html#a0574ca35fa19ffd4073671b5ad1d505c" title="Returns largest Node in SLL." alt="" coords="205,56,425,83"/>
+<area shape="rect" id="node6" href="$classSingleLinkedList.html#a943d365899a8f6ada65f95ba188cec5f" title="Returns smallest Node in SLL." alt="" coords="201,107,429,133"/>
+<area shape="rect" id="node7" href="$classSingleLinkedList.html#aa87b3ac7c24c27effa6f24b850ea52d6" title="Checks if an SLL is sorted from least to greatest." alt="" coords="228,157,402,184"/>
+<area shape="rect" id="node3" href="$classMammal.html#ac67515f2d2e49ec737c4aaa385bcd99f" title="Compares Mammals based on color: ASCII values of the strings are compared." alt="" coords="14,5,145,32"/>
+<area shape="rect" id="node5" href="$classSingleLinkedList.html#af7e0bb2dfe82ddcb6e8ff9291807e66b" title="Sorts an SLL via selection sort." alt="" coords="5,107,153,133"/>
+</map>

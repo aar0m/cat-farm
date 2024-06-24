@@ -1,0 +1,8 @@
+<map id="Animal::generatePounds" name="Animal::generatePounds">
+<area shape="rect" id="node1" title="Generates a random &#39;weight&#39; in pounds for an Animal." alt="" coords="351,81,518,108"/>
+<area shape="rect" id="node2" href="$classAnimal.html#a1e726a49ec952443190ac62dad22353c" title="Generates an Animal with a random valid &#39;weight&#39;." alt="" coords="158,5,268,32"/>
+<area shape="rect" id="node3" href="$classCat.html#a84a4c2dd95aeafdee0c49ccde0ad5cb6" title="Generates a Cat with an unknown &#39;color&#39;, Gender, random &#39;weight&#39;, and specified &#39;newName&#39;." alt="" coords="178,56,248,83"/>
+<area shape="rect" id="node4" href="$classMammal.html#a2963b6863086e485edc02b48d34eb9fc" title="Generates a Mammal with a specified Gender and random &#39;weight&#39;." alt="" coords="148,107,279,133"/>
+<area shape="rect" id="node6" href="$classAnimal.html#a6c67202c385f8e213a21454565f01e62" title="Generates a random Animal with random specifications (in this case, a Cat)" alt="" coords="124,157,303,184"/>
+<area shape="rect" id="node5" href="$classCat.html#ab2228ede359b6e69434dd5f9fea37de7" title="Generates a Cat with a specified Name and Gender." alt="" coords="5,107,76,133"/>
+</map>

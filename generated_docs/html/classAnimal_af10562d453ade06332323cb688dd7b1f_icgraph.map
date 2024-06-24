@@ -1,0 +1,4 @@
+<map id="Animal::speak" name="Animal::speak">
+<area shape="rect" id="node1" title="Makes the Animal speak! (because who would let the dogs out if they won&#39;t woof)" alt="" coords="144,5,249,32"/>
+<area shape="rect" id="node2" href="$classAnimal.html#a72994a2bb769667d277845351462246f" title="Print a unique one&#45;line string representing this object." alt="" coords="5,5,96,32"/>
+</map>

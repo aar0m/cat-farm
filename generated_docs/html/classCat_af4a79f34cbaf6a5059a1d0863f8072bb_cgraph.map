@@ -1,0 +1,9 @@
+<map id="Cat::setName" name="Cat::setName">
+<area shape="rect" id="node1" title="Set the Cat name." alt="" coords="5,107,108,133"/>
+<area shape="rect" id="node2" href="$className.html#adf2e3789f330180d37ad880f17e004cc" title="Check if newName is valid." alt="" coords="156,107,302,133"/>
+<area shape="rect" id="node3" href="$className.html#a528a6452c92fdd26082cd1f1ba96f0ee" title="Return true if newName&#39;s interior whitespace is trimmed." alt="" coords="350,5,624,32"/>
+<area shape="rect" id="node4" href="$className.html#a48ffe2521a489104cee5718de979a57a" title="Return true if newName only contains A &#45; Z, a &#45; z, 0&#45;9, space and &#45;" alt="" coords="384,56,590,83"/>
+<area shape="rect" id="node5" href="$className.html#a0af5e33bf02472905a9e9d0b9f9510cf" title="Return true if newName is not empty." alt="" coords="403,107,571,133"/>
+<area shape="rect" id="node6" href="$className.html#a024eecc170d4ba3e3fb4f05b35078478" title="Return true if newName starts with an alphabetic character (A &#45; Z or a &#45; z)" alt="" coords="384,157,590,184"/>
+<area shape="rect" id="node7" href="$className.html#a8004ce0cca7df10725e0e34cd541f274" title="Return true if newName is left and right trimmed for whitespace." alt="" coords="406,208,568,235"/>
+</map>

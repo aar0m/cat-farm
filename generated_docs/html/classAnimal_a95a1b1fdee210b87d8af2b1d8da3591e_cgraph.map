@@ -1,0 +1,4 @@
+<map id="Animal::compare" name="Animal::compare">
+<area shape="rect" id="node1" title="Compares Animals based on name, weight, color." alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node2" href="$classNode.html#a9b78207ed76a32e15e9cc630615f5836" title="Compares Node based on address value: numerically compares addresses." alt="" coords="175,5,287,32"/>
+</map>

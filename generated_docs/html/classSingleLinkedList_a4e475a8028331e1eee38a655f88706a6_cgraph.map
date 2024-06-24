@@ -1,0 +1,6 @@
+<map id="SingleLinkedList::validate" name="SingleLinkedList::validate">
+<area shape="rect" id="node1" title="Iterates and validates every object in a SingleLinkedList based on specified ruleset." alt="" coords="5,22,177,49"/>
+<area shape="rect" id="node2" href="$classContainer.html#a4ba5dfecf5b1505bd08df17f0c2436c5" title="Generates a Container to place objects into." alt="" coords="406,22,540,49"/>
+<area shape="rect" id="node3" href="$classNode.html#a9f69825adc179781257e406b3255a93e" title="Ensures Node and all its members are healthy (presumably)" alt="" coords="238,22,345,49"/>
+<area shape="rect" id="node4" href="$classContainer.html#a654be97698b35ecb309b27f8a075b216" title="Validates that Node and Container follow a specified ruleset." alt="" coords="225,73,358,99"/>
+</map>

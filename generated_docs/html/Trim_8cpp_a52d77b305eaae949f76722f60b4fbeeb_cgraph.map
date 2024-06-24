@@ -1,0 +1,5 @@
+<map id="trim_edges" name="trim_edges">
+<area shape="rect" id="node1" title="This trim function does not modify the interior of the string." alt="" coords="5,31,93,57"/>
+<area shape="rect" id="node2" href="$Trim_8cpp.html#a99e65232a2abb35971f043272c3ff14a" title="Remove all leading whitespace from inString" alt="" coords="145,5,213,32"/>
+<area shape="rect" id="node3" href="$Trim_8cpp.html#a4fd3d593e219e63ecda26b3f89be8021" title="Remove all trailing whitespace from inString" alt="" coords="141,56,218,83"/>
+</map>
